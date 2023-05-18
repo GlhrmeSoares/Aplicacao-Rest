@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: guisoares
+Build-Jdk: 17.0.1
+Implementation-Title: SpringBootSecurityJPA
+Implementation-Version: 0.0.1-SNAPSHOT
+Implementation-Vendor-Id: org.o7planning
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/SpringBootSecurityJPA
+Created-By: Maven Integration for Eclipse
+
